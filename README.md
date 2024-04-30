@@ -1,2 +1,25 @@
-# Prompts_para_QAs
-Prompts assertivos para QAs usarem nos estudos e no dia-a-dia
+# Prompts para QAs 
+Prompts assertivos para QAs usarem no CHATGPT para auxiliar nos estudos e no dia-a-dia. Utilize e adapte os prompts abaixo conforme sua necessidade:
+
+## Planos de Estudo para QAs
+
+1.Desenvolva um plano de estudos abrangente para um QA iniciante focado exclusivamente nos fundamentos de testes, sem incluir automação de testes. O plano deve abranger tópicos como conceitos básicos de testes, tipos de testes, técnicas de design de casos de teste, princípios de teste, gestão de defeitos e relatórios de teste. Considere a distribuição equitativa do tempo ao longo de 21 dias, com sessões de estudo de 2 horas por dia. Certifique-se de incluir atividades práticas para reforçar o aprendizado e sugira recursos de aprendizado relevantes, como livros, cursos online ou tutoriais.
+
+2.Desenvolva um plano de estudos detalhado para um QA que já possui conhecimento nos fundamentos de testes e deseja se especializar em automação de testes, começando com a lógica de programação. O plano deve abranger tópicos como introdução à lógica de programação, estruturas de controle, estruturas de dados e algoritmos básicos. Considere a distribuição equitativa do tempo ao longo de 21 dias, com sessões de estudo de 2 horas por dia. Inclua atividades práticas para aplicar os conceitos aprendidos e sugira recursos de aprendizado relevantes, como cursos online, tutoriais interativos e exercícios de programação.
+
+3.Elabore um plano de estudos abrangente para um QA que já possui conhecimento nos fundamentos de testes, lógica de programação e deseja se especializar em automação de testes, com ênfase nas principais ferramentas como Cypress, Selenium, Robot Framework e Playwright. O plano deve incluir uma visão geral de cada ferramenta, abordando sua arquitetura, recursos principais e casos de uso. Distribua equitativamente o tempo ao longo de 21 dias, com sessões de estudo de 2 horas por dia. Sugira atividades práticas para explorar cada ferramenta e recomendações de recursos de aprendizado, como documentação oficial, tutoriais online e projetos práticos para aplicar os conhecimentos adquiridos.
+
+4.Elabore um plano de estudos abrangente para um QA iniciante, que já tem conhecimento sobre os fundamentos de testes, lógica de programação e automação de testes, e deseja aprimorar seu conhecimento em outras áreas essenciais para o cotidiano de um QA. O plano deve abranger tópicos como princípios de desenvolvimento ágil e metodologias de teste, boas práticas de teste, técnicas avançadas de automação de testes, testes de desempenho, segurança e acessibilidade, além de ferramentas complementares como JIRA, Postman, Docker, entre outras. Distribua equitativamente o tempo ao longo de 21 dias, com sessões de estudo de 2 horas por dia. Sugira atividades práticas para aplicar os conceitos aprendidos e recomende recursos de aprendizado, como cursos online, blogs especializados e materiais de referência relevantes.
+
+## Prompts para o Dia-a-Dia de Trabalho do QA
+
+1. "Com base na história de usuário X, identifique os diferentes tipos de usuários que interagem com esta funcionalidade e mapeie seus respectivos fluxos de uso."
+2. "A partir dos requisitos detalhados da funcionalidade Y, descreva os principais objetivos de negócio e como eles se traduzem em requisitos de teste."
+3. "Baseado na especificação técnica da feature Z, liste os principais cenários de uso para esta funcionalidade, incluindo caminhos felizes e caminhos alternativos."
+4. "Considerando os pontos de integração com outros sistemas, conforme descrito na documentação de integração, identifique os pontos relevantes e mapeie os casos de teste correspondentes para garantir a interoperabilidade."
+5. "De acordo com os requisitos do cliente para a entrada de dados na funcionalidade W, identifique os diferentes tipos de entrada que os usuários podem fornecer e mapeie os casos de teste correspondentes para validar sua entrada correta."
+6. "Analisando os requisitos não funcionais da feature V, como desempenho e segurança, conforme especificado na documentação de requisitos não funcionais, mapeie os casos de teste correspondentes para validá-los."
+7. "Considerando os requisitos de interface do usuário detalhados no design da funcionalidade U, identifique os elementos da interface do usuário relevantes e mapeie os casos de teste para garantir sua funcionalidade correta."
+8. "Baseado nos requisitos de integração com serviços externos da feature T, identifique os endpoints relevantes e mapeie os casos de teste para verificar sua correta integração e funcionamento, conforme especificado na documentação de integração."
+9. "Revisando os requisitos de regressão descritos na documentação de mudanças da funcionalidade S, mapeie os casos de teste correspondentes para garantir que as mudanças nesta funcionalidade não afetem negativamente outras áreas do sistema."
+10. "Analisando os requisitos de aceitação do cliente para a funcionalidade R, mapeie os casos de teste correspondentes para garantir sua conformidade com as expectativas do cliente, conforme especificado na documentação de aceitação."
